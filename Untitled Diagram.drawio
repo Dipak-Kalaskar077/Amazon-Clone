@@ -72,7 +72,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ndxd8SOKxyI8qGX8Y5Bf-1" value="AI-Enabled EMR System" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="30" width="140" height="60" as="geometry" />
+          <mxGeometry x="355" y="30" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ndxd8SOKxyI8qGX8Y5Bf-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ndxd8SOKxyI8qGX8Y5Bf-3" target="Ndxd8SOKxyI8qGX8Y5Bf-13">
           <mxGeometry relative="1" as="geometry" />
@@ -90,7 +90,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ndxd8SOKxyI8qGX8Y5Bf-3" value="Admin Portal" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-100" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ndxd8SOKxyI8qGX8Y5Bf-5" value="Admin Portal&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="160" width="120" height="60" as="geometry" />
@@ -99,16 +99,16 @@
           <mxGeometry x="390" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ndxd8SOKxyI8qGX8Y5Bf-13" value="User Management" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-340" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ndxd8SOKxyI8qGX8Y5Bf-15" value="Access Control" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="-170" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ndxd8SOKxyI8qGX8Y5Bf-17" value="Approve Patient Data Requests" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ndxd8SOKxyI8qGX8Y5Bf-20" value="Register new patient" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
